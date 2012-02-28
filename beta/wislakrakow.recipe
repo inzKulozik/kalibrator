@@ -1,0 +1,13 @@
+class WislaKrakow(BasicNewsRecipe):
+    title          = u'Wis\u0142a Krak\xf3w [3]'
+    oldest_article = 3
+    max_articles_per_feed = 250
+    auto_cleanup = True
+    reverse_article_order = True
+    language = 'pl'
+    cover_url = 'http://www.rodzinny-krakow.pl/Libraries/Events/ts_wisla.sflb.ashx'
+
+    feeds          = [
+		(u'www.wisla.krakow.pl', u'http://www.wisla.krakow.pl/pl/aktualnosci/rss/'),
+		(u'www.wislakrakow.com', u'http://www.wislakrakow.com/www/external.php?type=RSS2')
+	]
