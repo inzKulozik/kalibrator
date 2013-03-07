@@ -1,0 +1,43 @@
+import re
+from calibre.web.feeds.news import BasicNewsRecipe
+
+class programtvRecipe(BasicNewsRecipe):
+    __license__ = 'GPL v3'
+    __author__ = u'Artur Stachecki <artur.stachecki@gmail.com>'
+    language = 'pl'
+    version = 1
+
+    title = u'Katalog eGazeciarz'
+    category = u'News'
+    description = u'Katalog eGazeciarz pozwala w łatwy sposób śledzić aktualizacje na stronie. Zawiera spis wszystkich subskrypcji.'
+    cover_url=''
+    oldest_article = 100000
+    max_articles_per_feed = 100000
+    no_stylesheets = True
+    remove_javascript = True
+    simultaneous_downloads = 10
+    remove_tags =[]
+    remove_tags.append(dict(attrs = {'id' : ['logowrap', 'navwrap', 'footerLeft']}))
+    remove_tags.append(dict(attrs = {'class' : 'jbmoduleBody'}))
+    extra_css = '''
+                    h2
+                    {margin-top: 50px;
+                    color:black;
+                    text-align:center;
+                    font-style:italic;
+                    font-weight:bold;}
+                    h5
+                    {margin-top: 50px;
+                    color:black;
+                    text-align:justify;}
+                    '''
+
+    feeds          = [
+                            ('Inne', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=87&format=feed&type=rss'),
+                            ('Program TV', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=86&format=feed&type=rss'),
+                            ('Polskie Serwisy', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=81&format=feed&type=rss'),
+                            ('Brytyjskie Serwisy', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=83&format=feed&type=rss'),
+                            ('Hiszpanskie Serwisy', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=85&format=feed&type=rss'),
+                            ('Niemieckie Serwisy', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=84&format=feed&type=rss'),
+                            ('Anglojezyczne Serwisy', 'http://egazeciarz.pl/index.php?option=com_content&view=category&id=82&format=feed&type=rss'),
+                           ]

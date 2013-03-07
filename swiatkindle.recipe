@@ -7,6 +7,7 @@ swiatczytnikow.pl
 '''
 
 import re
+from calibre.web.feeds.news import BasicNewsRecipe
 
 class swiatczytnikow(BasicNewsRecipe):
     title          = u'Swiat Czytnikow'
@@ -21,4 +22,3 @@ class swiatczytnikow(BasicNewsRecipe):
     remove_tags = [dict(name = 'ul', attrs = {'class' : 'similar-posts'})]
 
     preprocess_regexps = [(re.compile(u'<h3>Czytaj dalej:</h3>'), lambda match: '')]
-

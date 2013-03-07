@@ -4,7 +4,7 @@ from calibre.web.feeds.news import BasicNewsRecipe
 
 class FocusRecipe(BasicNewsRecipe):
     __license__ = 'GPL v3'
-    __author__ = u'intromatyk <intromatyk@gmail.com>'
+    __author__ = u'Artur Stachecki <artur.stachecki@gmail.com>'
     language = 'pl'
     version = 1
 
@@ -19,7 +19,7 @@ class FocusRecipe(BasicNewsRecipe):
 
     no_stylesheets = True
     remove_javascript = True
-   
+
     simultaneous_downloads = 2
 
     r = re.compile('.*(?P<url>http:\/\/(www.money.pl)|(rss.feedsportal.com\/c)\/.*\.html?).*')
@@ -34,7 +34,7 @@ class FocusRecipe(BasicNewsRecipe):
                     p.lead {font-weight: bold; text-align: left;}
                     .authordate {font-size: small; color: #696969;}
                     .fot{font-size: x-small; color: #666666;}
-                    '''    
+                    '''
 
     feeds          = [
                             ('Wiadomosci z kraju', 'http://money.pl.feedsportal.com/c/33900/f/612847/index.rss'),
@@ -60,7 +60,7 @@ class FocusRecipe(BasicNewsRecipe):
                            ]
 
     def print_version(self, url):
-     if url.count ('money.pl.feedsportal.com'):
+        if url.count ('money.pl.feedsportal.com'):
             u = url.find('0Cartykul0C')
             u = 'http://www.m.money.pl/wiadomosci/artykul/' + url[u + 21:]
             u = u.replace('0C', '/')
@@ -71,6 +71,6 @@ class FocusRecipe(BasicNewsRecipe):
             u = u.replace ('0B','.')
             u = u.replace (',0,',',-1,')
             u = u.replace('0Tutm0Isource0Frss0Gutm0Imedium0Frss0Gutm0Icampaign0Frss/story01.htm', '')
-     else:
-            u = url.replace('/nc/1','/do-druku/1')           
-     return u
+        else:
+            u = url.replace('/nc/1','/do-druku/1')
+        return u
