@@ -29,12 +29,14 @@ Aby pobrać wszystkie pliki w jednym archiwum zip, kliknij https://github.com/t3
 * astro_news_pl.recipe - AstroNEWS regularnie dostarcza wiadomości o wydarzeniach związanych z astronomią i astronautyką. Informujemy o aktualnych odkryciach i wydarzeniach naukowych, zapowiadamy ciekawe zjawiska astronomiczne. Serwis jest częścią portalu astronomicznego AstroNET prowadzonego przez miłośników astronomii i zawodowych astronomów.
 * astroflesz.recipe - astroflesz.pl - to portal poświęcony astronomii. Informuje zarówno o aktualnych wydarzeniach i odkryciach naukowych, jak również zapowiada ciekawe zjawiska astronomiczne
 * astronomia_pl.recipe - Astronomia.pl jest edukacyjnym portalem skierowanym do uczniów, studentów i miłośników astronomii. Przedstawiamy gwiazdy, planety, galaktyki, czarne dziury i wiele innych tajemnic Wszechświata.
+* bachormagazyn.recipe - Alternatywny magazyn o alternatywach rodzicielstwa
 * badania_net.recipe - chcesz wiedzieć więcej?
 * bankier_pl.recipe - Polski portal finansowy. Informacje o: gospodarka, inwestowanie, finanse osobiste, prowadzenie firmy, kursy walut, notowania akcji, fundusze.
 * bash_org_pl.recipe - Bash.org.pl - zabawne cytaty z IRC
 * benchmark_pl.recipe - benchmark.pl, recenzje i testy sprzętu, aktualności, rankingi, sterowniki, porady, opinie
 * biolog_pl.recipe - Przyrodnicze aktualności ze świata nauki (codziennie aktualizowane), kurs biologii, testy i sprawdziany, forum dyskusyjne.
 * biweekly.recipe - link with culture [English edition of Polish magazine]: literature, theatre, film, art, music, views, talks
+* blog_biszopa.recipe - Zapiski z Granitowego Miasta
 * blognexto.recipe - o e-publikacjach prawie wszystko
 * brewiarz.recipe - Serwis poświęcony Liturgii Godzin (brewiarzowi) - formie codziennej modlitwy Kościoła katolickiego.
 * cd_action.recipe - Strona CD-Action (CDA), największego w Polsce pisma dla graczy.Pełne wersje gier, newsy, recenzje, zapowiedzi, konkursy, forum, opinie, galerie screenów,trailery, filmiki, patche, teksty. Gry komputerowe (PC) oraz na konsole (PS3, XBOX 360).
@@ -63,7 +65,8 @@ Aby pobrać wszystkie pliki w jednym archiwum zip, kliknij https://github.com/t3
 * elektroda_pl.recipe - Międzynarodowy portal elektroniczny udostępniający bogate zasoby z dziedziny elektroniki oraz forum dyskusyjne.
 * emuzica_pl.recipe - Emuzyka to największa i najpopularniejsza strona o muzyce w Polsce
 * equipped.recipe - Wiadomości z equipped.pl
-* esensja.recipe - Magazyn kultury popularnej
+* esenja.recipe - Magazyn kultury popularnej
+* esensja_(rss).recipe - Magazyn kultury popularnej
 * eso_pl.recipe - ESO, Europejskie Obserwatorium Południowe, buduje i obsługuje najbardziej zaawansowane naziemne teleskopy astronomiczne na świecie
 * f1_ultra.recipe - Formuła 1, Robert Kubica, F3, GP2 oraz inne serie wyścigowe.
 * film_org_pl.recipe - Recenzje, analizy, artykuły, rankingi - wszystko o filmie dla miłośników kina. Opisy efektów specjalnych, wersji reżyserskich, remake'ów, sequeli. No i forum filmowe. Jedne z największych w Polsce.
@@ -89,6 +92,7 @@ Aby pobrać wszystkie pliki w jednym archiwum zip, kliknij https://github.com/t3
 * gildia_pl.recipe - Fantastyczny Portal Kulturalny - newsy, recenzje, galerie, wywiady. Literatura, film, gry komputerowe i planszowe, komiks, RPG, sklep. Nie lekceważ potęgi wyobraźni!
 * glos_wielkopolski.recipe - Gazeta Regionalna Głos Wielkopolski. Najnowsze Wiadomości Poznań. Czytaj Informacje Poznań!
 * gofin_pl.recipe - Portal Podatkowo-Księgowy
+* gosc_niedzielny.recipe - Ogólnopolski tygodnik katolicki
 * gram_pl.recipe - Serwis społecznościowy o grach: recenzje, newsy, zapowiedzi, encyklopedia gier, forum. Gry PC, PS3, X360, PS Vita, sprzęt dla graczy.
 * gry_online_pl.recipe - Wiadomości o grach, recenzje, zapowiedzi. Encyklopedia Gier zawiera opisy gier na PC, konsole Xbox360, PS3 i inne platformy.
 * hatalska.recipe - Blog specjalistki z branży mediowo-reklamowej - Natalii Hatalskiej
@@ -111,7 +115,7 @@ Aby pobrać wszystkie pliki w jednym archiwum zip, kliknij https://github.com/t3
 * kp.recipe -  Lewicowe pismo zaangażowane w bieg spraw publicznych w Polsce.
 * kresy_pl.recipe - portal społeczności kresowej
 * ksiazka_pl.recipe - Portal Księgarski - tematyczny serwis o książkach. Wydarzenia z rynku księgarsko-wydawniczego, nowości, zapowiedzi, bestsellery, setki recenzji. Niezbędne informacje dla każdego miłośnika książek, księgarza, bibliotekarza i wydawcy.
-* kurier_galicyjski.recipe -
+* kurier_galicyjski.recipe - Kurier Galicyjski - największa gazeta dla Polaków na Ukrainie. Bieżące wydarzenia z życia polskiej mniejszości, historia, kultura, polityka, reportaże.
 * kurier_lubelski.recipe - Gazeta Regionalna Kurier Lubelski. Najnowsze Wiadomości Lublin. Czytaj Informacje Lublin!
 * kurier_poranny.recipe - Kurier Poranny | poranny.pl - portal miejski Białegostoku,informacje,wydarzenia
 * kurier_szczecinski.recipe - 24Kurier jest portalem Kuriera Szczecińskiego. Zawiera aktualności ze Szczecina oraz wiadomości regionalne z  województwa zachodniopomorskiego.
@@ -135,12 +139,13 @@ Aby pobrać wszystkie pliki w jednym archiwum zip, kliknij https://github.com/t3
 * naszdziennik.recipe - Nasz Dziennik - Ogólnopolska gazeta codzienna. Podejmuje tematykę dotyczącą życia społecznego, kulturalnego, politycznego i religijnego. Propaguje wartości chrześcijańskie oraz tradycję i kulturę polską.
 * natemat_pl.recipe - informacje, komentarze, opinie
 * national_geographic_pl.recipe - legenda wśród magazynów z historią sięgającą 120 lat
-* nauka_w_polsce.recipe - Serwis Nauka w Polsce ma za zadanie popularyzację polskiej nauki. Można na nim znaleźć wiadomości takie jak:  osiągnięcia polskich naukowców, wydarzenia na polskich uczelniach, osiągnięcia studentów, konkursy dla badaczy, staże i stypendia naukowe, wydarzenia w polskiej nauce, kalendarium wydarzeń w nauce, materiały wideo o nauce.
+* nauka_w_polsce.recipe - Serwis Nauka w Polsce ma za zadanie popularyzację polskiej nauki. Można na nim znaleźć wiadomości takie jak: osiągnięcia polskich naukowców, wydarzenia na polskich uczelniach, osiągnięcia studentów, konkursy dla badaczy, staże i stypendia naukowe, wydarzenia w polskiej nauce, kalendarium wydarzeń w nauce, materiały wideo o nauce.
 * newsweek_polska.recipe - Weekly magazine
-* niebezpiecznik.recipe - Niebezpiecznik.pl
+* niebezpiecznik.recipe - Niebezpiecznik.pl – o bezpieczeństwie i nie...
 * nowa_fantastyka.recipe - Strona dla miłośników fantastyki
 * nowiny_rybnik.recipe - Tygodnik Regionalny NOWINY. Ogłoszenia drobne, wiadomości i wydarzenia z regionu Rybnika i okolic
 * nowy_ekran.recipe - Niezależny serwis społeczności blogerów
+* nowy_obywatel.recipe - Pismo na rzecz sprawiedliwości społecznej
 * nto.recipe - Nowa Trybuna Opolska - portal regionalny województwa opolskiego.
 * oclab_pl.recipe - Portal OCLab.pl jest miejscem przyjaznym pasjonatom sprzętu komputerowego, w szczególności overclockerom, które będzie służyć im za aktualną bazę wiedzy o podkręcaniu komputera, źródło aktualnych informacji z rynku oraz opinii na temat sprzętu komputerowego.
 * optyczne_pl.recipe - Najlepsze testy obiektywów, testy aparatów cyfrowych i testy lornetek w sieci!
@@ -187,10 +192,12 @@ Aby pobrać wszystkie pliki w jednym archiwum zip, kliknij https://github.com/t3
 * tvp_info.recipe - Serwis informacyjny TVP.INFO
 * ubuntu_pl.recipe - Polskie forum użytkowników Ubuntu Linux. Projekty, porady i dyskusje, gotowe rozwiązania problemów.
 * ubuntu_pomoc_org.recipe - Strona poświęcona systemowi Ubuntu Linux. Znajdziesz tutaj przydatne i sprawdzone poradniki oraz sposoby rozwiązywania wielu popularnych problemów. Ten blog rozwiąże każdy Twój problem - jeśli nie teraz, to wkrótce! :)
+* websecurity_pl.recipe - WebSecurity.pl to największy w Polsce portal o bezpieczeństwie sieciowym.
 * wirtualnemedia_pl.recipe - Portal o mediach, reklamie, internecie, PR, telekomunikacji - nr 1 w Polsce - WirtualneMedia.pl - wiadomości z pierwszej ręki.
 * wnp.recipe - Wirtualny Nowy Przemysł
 * wolne_media.recipe - Wiadomości z wolnemedia.net
 * wprost.recipe - Weekly magazine
+* wprost_rss.recipe - Weekly magazine
 * wysokie_obcasy.recipe - Serwis sobotniego dodatku do Gazety Wyborczej
 * zaufana_trzecia_strona.recipe - Niezależne źródło wiadomości o świecie bezpieczeństwa IT
 * zycie_warszawy.recipe - Wiadomości z Warszawy
